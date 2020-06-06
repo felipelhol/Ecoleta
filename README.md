@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="public/logo.png" width="200"/>
+   <img src="mobile/src/assets/logo.png" width="200"/>
 </p>
 
 
@@ -11,7 +11,7 @@
 
 
 <br />
-<p align="center"><img src=".github/gifweb.gif?raw=true"/></p>
+<p align="center"><img src="gifecoletaweb.gif?raw=true"/></p>
 <p align="center"><img src=".github/pagina1.PNG?raw=true"/></p>
 
 # :pushpin: Table of Contents
