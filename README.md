@@ -40,6 +40,10 @@ git clone git@github.com:felipelhol/Ecoleta.git
 
 ```
 yarn install
+
+yarn add sqlite3
+
+yarn add knex
 ```
 
 # :runner: Getting Started
@@ -49,14 +53,14 @@ yarn install
 Run the following command in order to start the application in a development environment:
 
 ```
-yarn dev
+yarn dev:server
 ```
 
 #  :sos: Faq
 
 **Question:** What are the tecnologies used in this project?
 
-**Answer:** The tecnologies used in this project are [NodeJS](https://nodejs.org/en/) + [Express Framework](http://expressjs.com/en/) to handle the server and CSS.
+**Answer:** The tecnologies used in this project are [NodeJS](https://nodejs.org/en/) + [Express Framework](http://expressjs.com/en/) to handle the server, React and React Native with Expo.
 ##
 
 # 	:exclamation: Issues
