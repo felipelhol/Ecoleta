@@ -12,7 +12,7 @@
 
 <br />
 <p align="center"><img src="gifecoletaweb.gif?raw=true"/></p>
-<p align="center"><img src=".github/pagina1.PNG?raw=true"/></p>
+<p align="center"><img src="mobilefinal.jpg?raw=true"/></p>
 
 # :pushpin: Table of Contents
 
