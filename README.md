@@ -7,11 +7,16 @@
 
 [![Author](https://img.shields.io/badge/author-Felipe%20Lima-red)](https://github.com/felipelhol)
 
-> Página que permite cadastrar e mostrar empresas para coleta de materiais na sua região.
+> Página web que permite cadastrar e mostrar empresas para coleta de materiais na sua região.
 
 
 <br />
 <p align="center"><img src="gifecoletaweb.gif?raw=true"/></p>
+
+> Página mobile que permite buscar a região e depois mostrar no mapa as empresas para coleta de materiais ao redor.
+
+
+<br />
 <p align="center"><img src="mobilefinal.jpg?raw=true"/></p>
 
 # :pushpin: Table of Contents
