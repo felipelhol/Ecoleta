@@ -142,4 +142,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Released in 2020.
 Made with love by [Felipe Lima](https://github.com/felipelhol) 👏🚀
-[See my linkedin](https://www.linkedin.com/in/eliasgcf/)
+[See my linkedin](https://www.linkedin.com/in/felipe-holanda-198224128/)
